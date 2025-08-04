@@ -1,4 +1,4 @@
-# Netflix Data Visualization Project
+# YouTube Trending Video Analysis and Prediction
 
 In this project, I explored over 3 million trending video records from 113 countries to understand what makes a video go viral (dataset:Trending Youtube Video Statistics).
 
