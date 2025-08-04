@@ -25,8 +25,7 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
-## 4. Run the Dash Web Application
-Launch Notebook and Run
+## 4. Launch Notebook and Run
 ```bash
 jupyter notebook
 Then open and run Project 4.ipynb
