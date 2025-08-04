@@ -31,6 +31,3 @@ Launch Notebook and Run
 jupyter notebook
 Then open and run Project 4.ipynb
 ```
-
-```
----
